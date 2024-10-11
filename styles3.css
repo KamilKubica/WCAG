@@ -1,0 +1,58 @@
+body {
+  background-color: black;
+  color: white;
+  margin: 0;
+}
+
+container {
+}
+
+h1 {
+  margin: 0;
+}
+
+header {
+  text-align: center;
+  align-content: center;
+  background-color: crimson;
+  height: 200px;
+}
+
+nav {
+  width: 40%;
+  height: 600px;
+  background-color: white;
+  text-align: center;
+  align-content: center;
+  float: left;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  background-color: crimson;
+  text-transform: uppercase;
+  padding: 30px;
+}
+
+a:hover {
+  background-color: red;
+  color: white;
+}
+
+article {
+  width: 60%;
+  height: 600px;
+  background-color: lightgray;
+  color: black;
+  text-align: center;
+  align-content: center;
+  font-size: 25px;
+}
+
+footer {
+  background-color: crimson;
+  text-align: center;
+  align-content: center;
+  height: 200px;
+}
